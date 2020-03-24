@@ -1,0 +1,43 @@
+body{
+    height: 100vw;
+    width: 100vh;
+    background-color: rgb(246, 248, 123);
+    
+}
+
+.navbar{
+    width: 100vw;
+    background-color: rgb(198, 224, 224);
+}
+
+main {
+    background-color: rgb(246, 248, 123); 
+    height:480px;
+    width:100vw;
+
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.noticias{
+    background-color: rgb(255, 255, 255); 
+    height:400px;
+    width:1000px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.d-block{
+    height:400px;
+    width: 800px;
+}
+
+.form{
+    background-color: rgb(255, 255, 255); 
+    height:400px;
+    width:400px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+}
