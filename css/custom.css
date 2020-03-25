@@ -1,6 +1,6 @@
 body{
-    height: 100vw;
-    width: 100vh;
+    height: 100vh;
+    width: 100vw;
     background-color: rgb(255, 255, 255);
     
 }
@@ -33,7 +33,8 @@ main {
     border-top-width: 3px;
     border-right-width: 3px;    
     border-bottom-width: 3px;
-    border-color:rgb(198, 224, 224) ;
+    border-color:rgb(198, 224, 224);
+
 }
 
 .d-block, .carousel-item,.carousel-inner,.carousel{
@@ -54,8 +55,7 @@ main {
     border-top-width: 3px;
     border-right-width: 3px;    
     border-bottom-width: 3px;
-    border-color:rgb(198, 224, 224) ;
-   
+    border-color:rgb(198, 224, 224);
 }
 
 #centrar{
@@ -75,5 +75,48 @@ main {
 .signin, .signup{
     margin-left: 40px;
     margin-top: 10px;
+
+}
+
+footer{
+    background-color: rgb(255, 255, 255); 
+    height:250px;
+    width:100vw; 
+    display: flex; 
+    justify-content: 
+    center;
+    align-items: center;
+}
+
+.foro-comentado{
+    background-color:#ffffff; 
+    height:230px;
+    width:1000px;
+    float:left;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    border-style: solid;
+    border-left-width: 3px;
+    border-top-width: 3px;
+    border-right-width: 3px;    
+    border-bottom-width: 3px;
+    border-color:rgb(198, 224, 224);
+    
+}
+.comentarios{
+    background-color:#ffffff; 
+    height:230px;
+    width:400px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px; 
+
+    border-style: solid;
+    border-left-width: 3px;
+    border-top-width: 3px;
+    border-right-width: 3px;    
+    border-bottom-width: 3px;
+    border-color:rgb(198, 224, 224);
 
 }
