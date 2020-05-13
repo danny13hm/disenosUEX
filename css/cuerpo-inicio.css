@@ -1,0 +1,38 @@
+.cuerpo-index{
+    padding-top: 55.6px;
+}
+
+.cuerpo-inicio{
+    padding-top: 97.4px;
+}
+
+.corousel-item-inicio{    
+    height: 600px;
+    background-size:cover;
+}
+
+.carousel-item-index {
+    height: 450px;
+    background-size:cover;  
+}
+
+.img{
+    border-radius:10px;
+    
+}
+
+.carousel{
+    background: #fff;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px;
+}
+
+.formulario-ingresar{
+    position: absolute;
+    height: 450px;    
+    background: #fff;
+    padding:10px 30px 0px 30px;
+    border-radius:10px;
+    box-shadow: 0px 0px 10px 0px;
+    
+}
